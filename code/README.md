@@ -1,8 +1,5 @@
 # Dark Cookies: Python library for the analysis of cookie dialogs.
-Cookie dialogs (aka Cookie Consent Banners or Cookie Privacy Warnings) allow users to select the level of cookie enablement that matches their personal privacy preferences.  Ideally, cookie dialogs should provide a range of options for users to choose from and there should be no bias towards accepting more cookies. However, many cookie dialogs employ subtle design techniques to nudge users towards accepting more cookies than is necessary. These techniques are known as dark patterns. We have designed and implemented an automated system that can locate cookie dialogs and then analyse them for dark patterns. The system is capable of detecting 10 different dark patterns automatically. 
 
-This system was created as part of a Computer Science undergraduate thesis at the University of Edinburgh and as part of an internship at [TULiPS](https://groups.inf.ed.ac.uk/tulips/) lab. We are currently working on publishing a paper about our findings.
-Three datasets that we collected using this tool have also been released on [datashare](https://datashare.ed.ac.uk/handle/10283/4453).
 
 # Sections
 - [Feature Overview](#feature-overview)
